@@ -2,7 +2,7 @@
 developmentMode = false
 
 [server]
-headless = false
+headless = true
 port = 8501
 enableCORS = false
 enableXsrfProtection = false
@@ -21,10 +21,6 @@ font = "sans serif"
 
 [client]
 showErrorDetails = true
-caching = true
-displayEnabled = true
 
 [runner]
 magicEnabled = true
-installTracer = false
-fixMatplotlib = true 
