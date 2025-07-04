@@ -71,7 +71,7 @@ body, .stApp, .main, .block-container {
 """, unsafe_allow_html=True)
 
 # Google Gemini API configuration
-GEMINI_API_KEY = "AIzaSyCnpRCQlbUnmEmPC77_P-gYXX2qG8eiTg4"
+GEMINI_API_KEY = " "
 os.environ['GEMINI_API_KEY'] = GEMINI_API_KEY
 
 # Model definitions
