@@ -1,6 +1,8 @@
 # Breakage - Professional Attrition Risk Detector
 
 A modern, professional HR analytics dashboard built with Streamlit that provides comprehensive attrition risk analysis and AI-powered insights.
+ ![image](https://github.com/user-attachments/assets/e17703ee-baad-47c1-a85e-43bca3617f80)
+
 
 ## Features
 
