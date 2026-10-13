@@ -412,7 +412,7 @@ def get_gemini_summary(employee_data, scores, attrition_score):
         """
         
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-3.8-flash",
             contents=prompt
         )
         
