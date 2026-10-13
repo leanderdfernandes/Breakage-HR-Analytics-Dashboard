@@ -22,7 +22,7 @@ DEPT_COLORS = [
 
 
 # Google Gemini API configuration
-GEMINI_API_KEY = "AIzaSyDCUgEUo1qc1B_OVLuK8eoKfz6mvYzmOek"
+GEMINI_API_KEY = "AI###############"
 os.environ['GEMINI_API_KEY'] = GEMINI_API_KEY
 
 
