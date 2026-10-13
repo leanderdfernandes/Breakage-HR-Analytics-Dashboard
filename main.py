@@ -22,7 +22,7 @@ DEPT_COLORS = [
 
 
 # Google Gemini API configuration
-GEMINI_API_KEY = "AIzaSyCnpRCQlbUnmEmPC77_P-gYXX2qG8eiTg4"
+GEMINI_API_KEY = "AIzaSyDCUgEUo1qc1B_OVLuK8eoKfz6mvYzmOek"
 os.environ['GEMINI_API_KEY'] = GEMINI_API_KEY
 
 
@@ -309,7 +309,7 @@ class AttritionApp:
             
             # Generate content using Gemini 2.5 Flash model
             response = client.models.generate_content(
-                model="gemini-2.5-flash",
+                model="gemini-3.8-flash",
                 contents=prompt
             )
             
